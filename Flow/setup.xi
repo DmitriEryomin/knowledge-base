@@ -1,5 +1,5 @@
 Flow setup .
-  Usefull information .
+  Useful information .
     * |// @flow| annotation in top of the file
     * |flow-bin| flow server npm module
     * |flow-typed| dependencies flow typings
